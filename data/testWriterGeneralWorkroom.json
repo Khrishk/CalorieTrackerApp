@@ -1,0 +1,13 @@
+{
+    "foodList": [
+        {
+            "name": "apple",
+            "calories": 95
+        },
+        {
+            "name": "burger",
+            "calories": 550
+        }
+    ],
+    "totalCalories": 645
+}
